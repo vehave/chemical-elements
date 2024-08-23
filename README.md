@@ -1,6 +1,6 @@
 # Chemical Elements
 
-<button name="button" onclick="https://vehave.github.io/chemical-elements/">PLAY NOW!</button>
+[PLAY NOW!](https://vehave.github.io/chemical-elements/){: .btn}
 
 Welcome to the Chemistry Memory Game, where you can enhance your chemistry skills and learn the names of elements along with their chemical symbols! This interactive game is based on the classic memory matching pairs, where you flip cards and search for matching pairs. Challenge yourself and your friends to find the correct combinations as quickly as possible!
 
