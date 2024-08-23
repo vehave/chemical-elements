@@ -14,3 +14,5 @@ Welcome to the Chemistry Memory Game, where you can enhance your chemistry skill
 Start the game now and take your chemistry learning to the next level! Flip the cards, find the pairs, and enjoy the learning experience!
 
 <img src="ScreenshotLanguageMenu.png" alt="Language menu">
+
+<img src="ScreenshotGame.jpg" alt="Game view">
