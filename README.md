@@ -12,3 +12,5 @@ Welcome to the Chemistry Memory Game, where you can enhance your chemistry skill
 - Suitable for Everyone: Whether you're a student, teacher, or chemistry enthusiast, this game offers challenges and learning opportunities for all.
 
 Start the game now and take your chemistry learning to the next level! Flip the cards, find the pairs, and enjoy the learning experience!
+
+<img src="ScreenshotLanguageMenu.png" alt="Language menu">
