@@ -4,7 +4,7 @@
 
 Welcome to the Chemistry Memory Game, where you can enhance your chemistry skills and learn the names of elements along with their chemical symbols! This interactive game is based on the classic memory matching pairs, where you flip cards and search for matching pairs. Challenge yourself and your friends to find the correct combinations as quickly as possible!
 
-**Game Features:**
+## Game Features
 
 - Fun and Educational: Practice the fundamentals of chemistry in a playful manner.
 - Time Challenge: Compete against the clock and try to find all pairs as fast as you can.
@@ -16,3 +16,7 @@ Start the game now and take your chemistry learning to the next level! Flip the 
 <img src="ScreenshotLanguageMenu.png" alt="Language menu">
 
 <img src="ScreenshotGame.jpg" alt="Game view">
+
+## Also available for Android devices
+
+<a href="https://play.google.com/store/apps/details?id=com.chemicalelementsmemorygame.com.unity.template.mobile2D" target="_blank"><img src="PlayStore.jpg" alt="Get it on Google Play"></a>
